@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(216, 235, 238);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: optional;color: black;
+}
+.tableau{
+    align-items: center;
+    width: fit-content;
+}
+.HowitStarted{
+    text-align: center;
+}
+/* .bucketlist{ */
+    text-align: center;
+    align-items: center;
+}
+.h2{
+    text-align: center;
+}
